@@ -7,7 +7,7 @@
       "link": "https://google.com/",
       "contact": "https://google.com/",
       
-      "addon": false,
+      "addon": true,
       "maps": false,
       "texture": false,
       "skin": true,
@@ -35,13 +35,29 @@
   ],
   "Addon": [
     {
-      "name": "",
-      "role": "",
-      "image": "",
-      "file_url": "",
-      "imgcoversatu": "",
-      "imgcoverdua": ""
-    }
+    "name": "Fénix Family Edition Remaster (Comes Alive)",
+    "role": "Hello this is my version of comes alive I know it is not the best but not being able to create custom uis for entities this is what you can do",
+    "image": "https://kossandroid.com/Data Android/Minecraft/Come Alive/1/6.png",
+    "file_url": "https://kossandroid.com/Data Android/Minecraft/Come Alive/1/FFGoldenEdition Behavior.mcaddon",
+    "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Come Alive/1/5.png",
+    "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Come Alive/1/4.png"
+  },
+  {
+    "name": "Fénix Family Edition Remaster (Comes Alive) (R)",
+    "role": "Hello this is my version of comes alive I know it is not the best but not being able to create custom uis for entities this is what you can do",
+    "image": "https://kossandroid.com/Data Android/Minecraft/Come Alive/1/3.png",
+    "file_url": "https://kossandroid.com/Data Android/Minecraft/Come Alive/1/FFGolden EditionResource.mcaddon",
+    "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Come Alive/1/2.png",
+    "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Come Alive/1/1.png"
+  },
+  {
+    "name": "Christmas Event 2021 - Carol",
+    "role": "Carol is a lightweight addon which adds various Christmas themed items to get your world ready for the holidays. Carol includes Gingerbread Golems and blocks from my previous addon, EAT, with multiple texture and stat improvements to freshen it up.",
+    "image": "https://kossandroid.com/Data Android/Minecraft/Come Alive/3/3.png",
+    "file_url": "https://kossandroid.com/Data Android/Minecraft/Come Alive/3/Carol.mcaddon",
+    "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Come Alive/3/2.png",
+    "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Come Alive/3/1.png"
+  }
   ],
   "Map": [
     {
