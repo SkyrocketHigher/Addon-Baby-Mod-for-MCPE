@@ -2,7 +2,7 @@
     {
         "Config": [
           {
-            "interval": 2,
+            "interval": 4,
             "backup": "unity",
             "status": true,
             "link": "https://google.com/",
